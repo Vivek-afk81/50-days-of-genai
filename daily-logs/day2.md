@@ -1,5 +1,7 @@
 # Day 2 — Tokens, Embeddings, and Word2Vec Arithmetic
 
+> **#50DaysOfGenAI** · [LinkedIn](https://linkedin.com/in/vivek-chauhan-500396340) · [GitHub](https://github.com/Vivek-afk81)
+
 ## What I built / learned
 Explored how text becomes geometry. Covered the pipeline from raw text
 to tokens to token IDs to embeddings, and why semantic similarity shows

@@ -1,4 +1,6 @@
 # Day 1 — What is Generative AI + Causal & Multi-Head Attention
+
+> **#50DaysOfGenAI** · [LinkedIn](https://linkedin.com/in/vivek-chauhan-500396340) · [GitHub](https://github.com/Vivek-afk81)
  
 ## What I built / learned
 Kicked off the 50-day challenge. Explained the core distinction between
