@@ -1,0 +1,36 @@
+[
+  {"id": 1, "category": "A", "context": null, "question": "What is the capital of Australia?", "ground_truth": "Canberra"},
+  {"id": 2, "category": "A", "context": null, "question": "Who developed the theory of relativity?", "ground_truth": "Albert Einstein"},
+  {"id": 3, "category": "A", "context": null, "question": "What is the chemical symbol for gold?", "ground_truth": "Au"},
+  {"id": 4, "category": "A", "context": null, "question": "Which planet is known as the Red Planet?", "ground_truth": "Mars"},
+  {"id": 5, "category": "A", "context": null, "question": "In which year did World War II end?", "ground_truth": "1945"},
+  {"id": 6, "category": "A", "context": null, "question": "What is the largest ocean on Earth?", "ground_truth": "Pacific Ocean"},
+  {"id": 7, "category": "A", "context": null, "question": "Who wrote Pride and Prejudice?", "ground_truth": "Jane Austen"},
+  {"id": 8, "category": "A", "context": null, "question": "What is the square root of 144?", "ground_truth": "12"},
+  {"id": 9, "category": "A", "context": null, "question": "Which country was the first to successfully send a human into space?", "ground_truth": "Soviet Union"},
+  {"id": 10, "category": "A", "context": null, "question": "What is the longest river in Africa?", "ground_truth": "Nile"},
+
+  {"id": 11, "category": "B", "context": null, "question": "What is the capital of Bhutan?", "ground_truth": "Thimphu"},
+  {"id": 12, "category": "B", "context": null, "question": "Which scientist discovered the neutron?", "ground_truth": "James Chadwick"},
+  {"id": 13, "category": "B", "context": null, "question": "What is the tallest mountain in South America?", "ground_truth": "Aconcagua"},
+  {"id": 14, "category": "B", "context": null, "question": "Which country uses the currency called the Tugrik?", "ground_truth": "Mongolia"},
+  {"id": 15, "category": "B", "context": null, "question": "What is the deepest lake in the world?", "ground_truth": "Lake Baikal"},
+
+  {"id": 16, "category": "C", "context": null, "question": "Who was the U.S. president when humans first landed on the Moon?", "ground_truth": "Richard Nixon"},
+  {"id": 17, "category": "C", "context": null, "question": "What is the native country of the scientist who discovered penicillin?", "ground_truth": "Scotland"},
+  {"id": 18, "category": "C", "context": null, "question": "Which continent contains the country whose capital is Nairobi?", "ground_truth": "Africa"},
+  {"id": 19, "category": "C", "context": null, "question": "Which element has atomic number equal to the number of sides in a hexagon?", "ground_truth": "Carbon"},
+  {"id": 20, "category": "C", "context": null, "question": "What language is primarily spoken in the country where Machu Picchu is located?", "ground_truth": "Spanish"},
+
+  {"id": 21, "category": "D", "context": "Sarah bought 5 apples on Monday and 3 apples on Tuesday.", "question": "How many apples did Sarah buy in total?", "ground_truth": "8"},
+  {"id": 22, "category": "D", "context": "The meeting starts at 2 PM and lasts for 90 minutes.", "question": "When does the meeting end?", "ground_truth": "3:30 PM"},
+  {"id": 23, "category": "D", "context": "John is older than Mary. Mary is older than Tom.", "question": "Who is the youngest?", "ground_truth": "Tom"},
+  {"id": 24, "category": "D", "context": "A train travels 60 km in 1 hour.", "question": "How far will it travel in 3 hours at the same speed?", "ground_truth": "180 km"},
+  {"id": 25, "category": "D", "context": "The blue box contains a key. The red box contains a book.", "question": "Which box contains the key?", "ground_truth": "Blue box"},
+
+  {"id": 26, "category": "E", "context": null, "question": "Who won the Nobel Prize in Physics in 2035?", "ground_truth": "Unknown / has not happened"},
+  {"id": 27, "category": "E", "context": null, "question": "What is the capital city of the country Zoravia?", "ground_truth": "No such recognized country"},
+  {"id": 28, "category": "E", "context": null, "question": "Which scientist invented the Quantum Bicycle?", "ground_truth": "No known scientist; fictional concept"},
+  {"id": 29, "category": "E", "context": null, "question": "What are the main exports of the Republic of Eldoria?", "ground_truth": "Eldoria is fictional"},
+  {"id": 30, "category": "E", "context": null, "question": "What is the population of Mars City in 2024?", "ground_truth": "No established Mars City exists"}
+]
