@@ -1,4 +1,7 @@
 # Day 5 — Tokenization, Decoding Strategies, and Sentiment Models
+
+> **#50DaysOfGenAI** · [LinkedIn](https://linkedin.com/in/vivek-chauhan-500396340) · [GitHub](https://github.com/Vivek-afk81)
+
  
 ## What I built / learned
 Went deeper into Hugging Face Transformers than the original plan called

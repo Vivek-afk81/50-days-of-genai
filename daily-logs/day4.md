@@ -1,4 +1,7 @@
 # Day 4 — Zero-Shot vs Few-Shot vs Chain-of-Thought Prompting
+
+> **#50DaysOfGenAI** · [LinkedIn](https://linkedin.com/in/vivek-chauhan-500396340) · [GitHub](https://github.com/Vivek-afk81)
+
  
 ## What I built / learned
 Ran two different reasoning questions through three prompting strategies
