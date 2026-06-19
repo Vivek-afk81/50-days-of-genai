@@ -20,9 +20,3 @@ The same geometric property is what allows vector arithmetic
 (king - man + woman ≈ queen) to surface relationships the model was
 never explicitly taught.
 
-## Post
-[paste your LinkedIn post URL here]
-
-
-## Time spent
-~2 hrs

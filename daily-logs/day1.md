@@ -17,14 +17,10 @@ softmax, which forces their attention weight to zero. That single line
 is what makes autoregressive generation possible — every token can only
 "see" what came before it.
  
-## Post
-[paste your LinkedIn post URL here]
  
 ## Notebook
 N/A — code shown is from the existing MiniGPT repo:
 github.com/Vivek-afk81/mini-gpt-research-framework
  
 
- 
-## Time spent
-~1.5 hrs
+
