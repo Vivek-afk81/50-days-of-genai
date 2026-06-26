@@ -1,5 +1,7 @@
 # Day 13 — BLEU, ROUGE, and BERTScore
 
+> **#50DaysOfGenAI** · [LinkedIn](https://linkedin.com/in/vivek-chauhan-500396340) · [GitHub](https://github.com/Vivek-afk81)
+
 ## What I built / learned
 Implemented and compared three LLM evaluation metrics (BLEU, ROUGE-1,
 ROUGE-L, BERTScore) on six deliberately designed test cases, each built
