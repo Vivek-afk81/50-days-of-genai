@@ -77,6 +77,8 @@ lost track of the original question. Classic RAG failure mode, even
 outside a RAG system.
  
 
- 
+ ---
+
+*Part of [#50DaysOfGenAI](https://github.com/Vivek-afk81/50-days-of-genai) — building GenAI systems from fundamentals to production.*
 
  
