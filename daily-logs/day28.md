@@ -1,4 +1,4 @@
-# Day 27 — CoT Robustness Experiment: Stage 1 Baseline
+# Day 28 — CoT Robustness Experiment: Stage 1 Baseline
 
 ## What I built / learned
 - Fixed a parsing bug in `parse_response()`: the first version only captured lines

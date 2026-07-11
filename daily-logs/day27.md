@@ -1,4 +1,4 @@
-# Day 26 — Chain-of-Thought Prompting
+# Day 27 — Chain-of-Thought Prompting
 
 ## What I built / learned
 
