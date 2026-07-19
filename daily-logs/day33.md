@@ -19,4 +19,6 @@ It's slow. It's the least glamorous part of this whole project. It's also the on
 
 Manual annotation isn't a chore standing between me and the results — for this question, it *is* the result.
 
-#LLM #MachineLearning #AIResearch #ChainOfThought #ReasoningModels #BuildInPublic
+GitHub: [cot-robustness-experiment](https://github.com/Vivek-afk81/cot-robustness-experiment)
+
+*Part of [#50DaysOfGenAI](https://github.com/Vivek-afk81/50-days-of-genai) — building GenAI systems from fundamentals to production.*
