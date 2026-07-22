@@ -190,3 +190,7 @@ illustrative quote, pull from the existing 35-case annotation sheet rather
 than reopening this as a separate task.
 
 ---
+
+GitHub: [cot-robustness-experiment](https://github.com/Vivek-afk81/cot-robustness-experiment)
+
+*Part of [#50DaysOfGenAI](https://github.com/Vivek-afk81/50-days-of-genai) — building GenAI systems from fundamentals to production.*
