@@ -1,4 +1,4 @@
-Day 37-38 Cross-model block: bypass finding, Mistral block closed early
+Day 37 Cross-model block: bypass finding, Mistral block closed early
 
 **Result that looked like a finding, but isn't one:** ministral-8b-2512
 scored 89/89 (100%) on BOTH baseline-control and Reversed conditions --
